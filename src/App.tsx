@@ -5,7 +5,7 @@ function App() {
   return (
     <>
       <div>
-        <h1>Ingusmat</h1>
+        <h1>Ingusmat </h1>
         <ul className="flex flex-row justify-around">
           <li>
             <a
