@@ -18,7 +18,7 @@ function App() {
           </li>
           <li>
             <a
-              href="https://www.linkedin.com/in/matthew-burleson/"
+              href="https://www.linkedin.com/in/matthewburleson/"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -27,7 +27,7 @@ function App() {
           </li>
           <li>
             <a
-              href="mailto:matthew.burleson@outlook.com"
+              href="mailto:ingusmat@gmail.com"
               target="_blank"
               rel="noopener noreferrer"
             >
