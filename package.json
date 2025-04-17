@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://ingusmat.github.io/ingusmatdotdev/",
+  "homepage": "https://ingusmat.dev/",
   "scripts": {
     "dev": "vite",
     "predeploy": "npm run build",
